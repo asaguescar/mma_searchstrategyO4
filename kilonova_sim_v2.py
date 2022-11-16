@@ -288,7 +288,7 @@ def calculate_efficiency(skymap, model, strategy, pcklfilename='', ntransient=10
         flux = lc['flux'][mask]
         fluxerr = lc['fluxerr'][mask]
         snr = flux/fluxerr
-        if sum(snr>5)>1:
+        if sum(snr>5)>0:
             return lc
 
     def filterday2(lc):
@@ -297,7 +297,7 @@ def calculate_efficiency(skymap, model, strategy, pcklfilename='', ntransient=10
         flux = lc['flux'][mask]
         fluxerr = lc['fluxerr'][mask]
         snr = flux / fluxerr
-        if sum(snr > 5) > 1:
+        if sum(snr > 5) > 0:
             return lc
 
     def filterday3(lc):
@@ -306,7 +306,7 @@ def calculate_efficiency(skymap, model, strategy, pcklfilename='', ntransient=10
         flux = lc['flux'][mask]
         fluxerr = lc['fluxerr'][mask]
         snr = flux/fluxerr
-        if sum(snr>5)>1:
+        if sum(snr>5)>0:
             return lc
 
     lcs_day1 = lcs.filter(filterday1)
@@ -338,7 +338,7 @@ if __name__=='__main__':
     localizations =['1045', '1045','1324', '1324','1458','1458']
     exptimes =     ['240' , '300' ,'240' , '300' ,'240' , '300']
     ztfstrategys = ['grg_gri_rir', 'grg_grg_grg', 'rgr_rir_rir']
-    ntransient = 1000
+    ntransient = 10000
 
     original_stdout = sys.stdout
 

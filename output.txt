@@ -1,0 +1,162 @@
+-------------------------
+| number injections: 1000
+| skymap: too_strategies/1045.fits
+| model: bulladynwindBNS
+| ztfstrategy: grg_gri_rir
+| exptime: 240
+| Recovery fraction:  0.191
+| Recovery fraction per day (1,2,3):  0.133 0.104 0.03
+-------------------------
+-------------------------
+| number injections: 1000
+| skymap: too_strategies/1045.fits
+| model: bulladynwindBNS
+| ztfstrategy: grg_grg_grg
+| exptime: 240
+| Recovery fraction:  0.316
+| Recovery fraction per day (1,2,3):  0.238 0.246 0.08
+-------------------------
+-------------------------
+| number injections: 1000
+| skymap: too_strategies/1045.fits
+| model: bulladynwindBNS
+| ztfstrategy: rgr_rir_rir
+| exptime: 240
+| Recovery fraction:  0.38
+| Recovery fraction per day (1,2,3):  0.33 0.319 0.121
+-------------------------
+-------------------------
+| number injections: 1000
+| skymap: too_strategies/1045.fits
+| model: bulladynwindBNS
+| ztfstrategy: grg_gri_rir
+| exptime: 300
+| Recovery fraction:  0.287
+| Recovery fraction per day (1,2,3):  0.195 0.201 0.071
+-------------------------
+-------------------------
+| number injections: 1000
+| skymap: too_strategies/1045.fits
+| model: bulladynwindBNS
+| ztfstrategy: grg_grg_grg
+| exptime: 300
+| Recovery fraction:  0.362
+| Recovery fraction per day (1,2,3):  0.302 0.293 0.108
+-------------------------
+-------------------------
+| number injections: 1000
+| skymap: too_strategies/1045.fits
+| model: bulladynwindBNS
+| ztfstrategy: rgr_rir_rir
+| exptime: 300
+| Recovery fraction:  0.384
+| Recovery fraction per day (1,2,3):  0.33 0.34 0.143
+-------------------------
+-------------------------
+| number injections: 1000
+| skymap: too_strategies/1324.fits
+| model: bulladynwindBNS
+| ztfstrategy: grg_gri_rir
+| exptime: 240
+| Recovery fraction:  0.248
+| Recovery fraction per day (1,2,3):  0.179 0.186 0.087
+-------------------------
+-------------------------
+| number injections: 1000
+| skymap: too_strategies/1324.fits
+| model: bulladynwindBNS
+| ztfstrategy: grg_grg_grg
+| exptime: 240
+| Recovery fraction:  0.276
+| Recovery fraction per day (1,2,3):  0.24 0.247 0.14
+-------------------------
+-------------------------
+| number injections: 1000
+| skymap: too_strategies/1324.fits
+| model: bulladynwindBNS
+| ztfstrategy: rgr_rir_rir
+| exptime: 240
+| Recovery fraction:  0.278
+| Recovery fraction per day (1,2,3):  0.251 0.269 0.152
+-------------------------
+-------------------------
+| number injections: 1000
+| skymap: too_strategies/1324.fits
+| model: bulladynwindBNS
+| ztfstrategy: grg_gri_rir
+| exptime: 300
+| Recovery fraction:  0.256
+| Recovery fraction per day (1,2,3):  0.205 0.213 0.112
+-------------------------
+-------------------------
+| number injections: 1000
+| skymap: too_strategies/1324.fits
+| model: bulladynwindBNS
+| ztfstrategy: grg_grg_grg
+| exptime: 300
+| Recovery fraction:  0.3
+| Recovery fraction per day (1,2,3):  0.279 0.276 0.162
+-------------------------
+-------------------------
+| number injections: 1000
+| skymap: too_strategies/1324.fits
+| model: bulladynwindBNS
+| ztfstrategy: rgr_rir_rir
+| exptime: 300
+| Recovery fraction:  0.3
+| Recovery fraction per day (1,2,3):  0.28 0.286 0.177
+-------------------------
+-------------------------
+| number injections: 1000
+| skymap: too_strategies/1458.fits
+| model: bulladynwindBNS
+| ztfstrategy: grg_gri_rir
+| exptime: 240
+| Recovery fraction:  0.224
+| Recovery fraction per day (1,2,3):  0.224 0 0
+-------------------------
+-------------------------
+| number injections: 1000
+| skymap: too_strategies/1458.fits
+| model: bulladynwindBNS
+| ztfstrategy: grg_grg_grg
+| exptime: 240
+| Recovery fraction:  0.217
+| Recovery fraction per day (1,2,3):  0.137 0.133 0.035
+-------------------------
+-------------------------
+| number injections: 1000
+| skymap: too_strategies/1458.fits
+| model: bulladynwindBNS
+| ztfstrategy: rgr_rir_rir
+| exptime: 240
+| Recovery fraction:  0.28
+| Recovery fraction per day (1,2,3):  0.217 0.204 0.067
+-------------------------
+-------------------------
+| number injections: 1000
+| skymap: too_strategies/1458.fits
+| model: bulladynwindBNS
+| ztfstrategy: grg_gri_rir
+| exptime: 300
+| Recovery fraction:  0.152
+| Recovery fraction per day (1,2,3):  0.086 0.08 0.031
+-------------------------
+-------------------------
+| number injections: 1000
+| skymap: too_strategies/1458.fits
+| model: bulladynwindBNS
+| ztfstrategy: grg_grg_grg
+| exptime: 300
+| Recovery fraction:  0.237
+| Recovery fraction per day (1,2,3):  0.191 0.17 0.048
+-------------------------
+-------------------------
+| number injections: 1000
+| skymap: too_strategies/1458.fits
+| model: bulladynwindBNS
+| ztfstrategy: rgr_rir_rir
+| exptime: 300
+| Recovery fraction:  0.309
+| Recovery fraction per day (1,2,3):  0.264 0.251 0.088
+-------------------------

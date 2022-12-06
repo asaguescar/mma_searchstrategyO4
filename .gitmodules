@@ -1,0 +1,3 @@
+[submodule "gwemopt"]
+	path = gwemopt
+	url = https://github.com/tahumada/gwemopt.git
